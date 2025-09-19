@@ -53,6 +53,18 @@ Future Enhancements:
 
 4. Cloud sync for multiple users
 
+How to Run:
+
+1. Clone this repo:
+git clone https://github.com/Azeem10101/Student-Attendance-Scheduler.git
+cd Student-Attendance-Scheduler
+
+2. Compile the source:
+gcc "Best 1.c" -o scheduler
+
+3. Run:
+./scheduler
+
 About:
 This was my first hackathon project in college.
 It gave me hands-on experience in C programming, file handling, and building real-world utilities.
